@@ -1,12 +1,15 @@
 {
- "summary": [
-  {
-   "summary_index":1,
-  "content": "This is summary 1"
-  },
-   {
-   "summary_index":2,
-  "content": "This is summary 2"
+  "summary": [
+    {
+      "id": 1,
+      "content": "this is summary 1"
+    },
+    {
+      "id": 2,
+      "content": "this is summary 2"
+    }
+  ],
+  "resume_score": {
+    "score": 8
   }
- ],
 }
