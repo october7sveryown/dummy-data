@@ -17,8 +17,12 @@
       "content":"Effective web testing involves a combination of manual and automated testing methodologies to identify and address these vulnerabilities. Regular updates, security patches, and continuous monitoring are crucial for maintaining a secure web application environment."
     }
   ],
-  "resume_score":{
-    "score":8
+  "resume_score": {
+    "resume_relevance": 8,
+    "skills_relevance": 7,
+    "resume_correctness": 9,
+    "resume_convinceness": 8,
+    "summary": "The resume has a high relevance score to the job description, with a focus on software development and full-stack experience. The skills mentioned align well with the required programming languages and technologies. The correctness of the resume is strong, with no major grammar or spelling errors. The resume is convincing in showcasing the candidate's experience and accomplishments in software development roles."
   },
   "coverLetter":[
     {
