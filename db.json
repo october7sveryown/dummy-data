@@ -1,29 +1,29 @@
 {
-  "summary": [
+  "summary":[
     {
-      "id": 1,
-      "content": "Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
+      "id":1,
+      "content":"Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
     },
     {
-      "id": 2,
-      "content": "Effective web testing involves a combination of manual and automated testing methodologies to identify and address these vulnerabilities. Regular updates, security patches, and continuous monitoring are crucial for maintaining a secure web application environment."
+      "id":2,
+      "content":"Effective web testing involves a combination of manual and automated testing methodologies to identify and address these vulnerabilities. Regular updates, security patches, and continuous monitoring are crucial for maintaining a secure web application environment."
     },
     {
-      "id": 3,
-      "content": "Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
+      "id":3,
+      "content":"Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
     },
     {
-      "id": 4,
-      "content": "Effective web testing involves a combination of manual and automated testing methodologies to identify and address these vulnerabilities. Regular updates, security patches, and continuous monitoring are crucial for maintaining a secure web application environment."
+      "id":4,
+      "content":"Effective web testing involves a combination of manual and automated testing methodologies to identify and address these vulnerabilities. Regular updates, security patches, and continuous monitoring are crucial for maintaining a secure web application environment."
     }
   ],
-  "resume_score": {
-    "score": 8
+  "resume_score":{
+    "score":8
   },
-  "coverLetter": [
+  "coverLetter":[
     {
-      "id": 1,
-      "content": "Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
+      "id":1,
+      "content":"Results-driven Full-Stack Developer with 4+ years of experience in Java, Angular, and Spring Boot. Successfully transformed offline processes to online, implementing Auth, Role-based access, and validation features. Mentored junior developers, ensured seamless migration of applications, and actively resolved vulnerabilities. Proven expertise in SQL data design and optimization. Dedicated to continuous learning, I bring agile development skills, collaborative spirit, and a commitment to quality assurance. With a strong background in backend services using the Grails framework, I am well-equipped to contribute effectively to Giftbit's growth and success."
     }
-  ],
+  ]
 }
