@@ -31,8 +31,8 @@
     }
   ],
   "skills": {
-    "soft_skills":"Communication, problem-solving, Team player",
-    "technical_skills": "Java, Spring Boot, Cloud, AWS",
-    "certifications": "AWS CCP"
+    "soft_skills":["Communication", "problem-solving", "Team player"],
+    "technical_skills": ["Java, Spring Boot, Cloud, AWS"],
+    "certifications": ["AWS CCP"]
   }
 }
