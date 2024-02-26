@@ -34,5 +34,9 @@
     "soft_skills":["Communication", "problem-solving", "Team player"],
     "technical_skills": ["Java", "Spring Boot", "Cloud", "AWS"],
     "certifications": ["AWS CCP"]
+  },
+  "network":{
+    "genType": "LinkedIn connection Note",
+    "content": "I am a full stack developer interested in the software engineering career path at RBC. After researching more about RBC, it seems like there would be great opportunities for me to learn and grow professionally. I'm excited to explore what roles might fit my skillset within RBC's team!"
   }
 }
